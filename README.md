@@ -1,3 +1,9 @@
+This repository is a fork of [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) which adds support for fields overriding.
+
+Description below is an original README.md extended with information about fields overriding.
+
+---
+
 ![GraphQL Faker logo](./docs/faker-logo-text.png)
 
 # GraphQL Faker

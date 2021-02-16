@@ -1,5 +1,5 @@
 {
-  "name": "graphql-faker",
+  "name": "@proscom/graphql-faker",
   "version": "2.0.0-rc.23",
   "description": "Mock or extend your GraphQL API with faked data. No coding required",
   "main": "dist/index.js",
@@ -22,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/APIs-guru/graphql-faker.git"
+    "url": "git+https://github.com/Proscom/graphql-faker.git"
   },
-  "author": "APIs.guru <founders@apis.guru>",
+  "author": "Alex Derbenev <alex.derbenew@yandex.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/APIs-guru/graphql-faker/issues"
+    "url": "https://github.com/Proscom/graphql-faker/issues"
   },
-  "homepage": "https://github.com/APIs-guru/graphql-faker#readme",
+  "homepage": "https://github.com/Proscom/graphql-faker#readme",
   "devDependencies": {
     "@types/body-parser": "1.19.0",
     "@types/classnames": "2.2.10",
